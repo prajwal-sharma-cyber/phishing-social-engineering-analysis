@@ -1,0 +1,6 @@
+scenario_id,scenario,indicator,risk,recommended_action
+P001,Unexpected password reset request,Urgency + credential request,High,Verify through official portal
+P002,Invoice from unknown supplier,Unknown sender + attachment,High,Do not open; verify sender
+P003,Known colleague asks for gift cards,Unusual request,High,Confirm using another channel
+P004,Newsletter from known company,No major indicator,Low,Review normally
+P005,Account warning with mismatched link,Link mismatch,High,Do not click; navigate manually
